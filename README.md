@@ -1,4 +1,4 @@
-# 🗒 Fintect Project
+# 🗒 Fintech Project
 
 회원가입 관리 및 사용내역에 대한 실시간 서비스입니다. 
 
